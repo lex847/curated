@@ -14,7 +14,7 @@ This project was built to help me familarize with Redux for a collaborative upco
 	1. -[x] Add Pagination on top of news wrapper.
 1. -[ ] Store 3-5 (20*~3-5=**60-100 news**) pages as a cache to avoid multiple requests.
 1. -[ ] Add **Scroll to top** button.
-1. -[ ] Discontinue after completion, block project.
+1. -[x] Discontinue after completion, block project.
 
 ---
 
